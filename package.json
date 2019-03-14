@@ -1,0 +1,29 @@
+{
+    "author": {
+      "name": "Shohail Ahmed",
+      "email": "suhailh36@outlook.com"
+    },
+  
+    "dependencies": {
+      "prop-types": "^15.6.2"
+    },
+    "description": "React Native component for creating animated, circular progress with react-native-svg",
+    "keywords": [
+      "react",
+      "react-native",
+      "react-component",
+      "progress",
+      "chart",
+      "react-svg"
+    ],
+    "main": "index.js",
+    "name": "react-native-circular-progressdial",
+    "peerDependencies": {
+      "react": ">=16.7.0",
+      "react-native": "^0.57.8",
+      "react-native-svg": "^8.0.10",
+      "react-native-circular-progress": "^1.1.0"
+    },
+    "version": "1.0.0"
+  }
+  
